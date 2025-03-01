@@ -37,6 +37,7 @@ const newOwner = new Owner("Javohir", 16, 1);
 newOwner.about();
 
 const newAdmin = new Admin("Javohir", 99, 2);
+
 newAdmin.about();
 newAdmin.newUser();
 newAdmin.deleteUser();
